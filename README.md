@@ -13,3 +13,4 @@ Bouncing ball with gravity in java
 * 0.1
   * Initial commit
 
+![image](https://github.com/uzuhiko/Kinematic-ball/assets/146120199/3f330541-24bb-4793-8950-c18be9b9601b)
